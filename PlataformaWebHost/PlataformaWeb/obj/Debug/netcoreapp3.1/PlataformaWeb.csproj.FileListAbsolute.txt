@@ -1,0 +1,7 @@
+C:\Users\mjper\OneDrive\Documentos\PlataformaWebHost\PlataformaWeb\obj\Debug\netcoreapp3.1\PlataformaWeb.csproj.AssemblyReference.cache
+C:\Users\mjper\OneDrive\Documentos\PlataformaWebHost\PlataformaWeb\obj\Debug\netcoreapp3.1\PlataformaWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjper\OneDrive\Documentos\PlataformaWebHost\PlataformaWeb\obj\Debug\netcoreapp3.1\PlataformaWeb.AssemblyInfoInputs.cache
+C:\Users\mjper\OneDrive\Documentos\PlataformaWebHost\PlataformaWeb\obj\Debug\netcoreapp3.1\PlataformaWeb.AssemblyInfo.cs
+C:\Users\mjper\OneDrive\Documentos\PlataformaWebHost\PlataformaWeb\obj\Debug\netcoreapp3.1\PlataformaWeb.csproj.CoreCompileInputs.cache
+C:\Users\mjper\OneDrive\Documentos\PlataformaWebHost\PlataformaWeb\obj\Debug\netcoreapp3.1\PlataformaWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mjper\OneDrive\Documentos\PlataformaWebHost\PlataformaWeb\obj\Debug\netcoreapp3.1\PlataformaWeb.MvcApplicationPartsAssemblyInfo.cache

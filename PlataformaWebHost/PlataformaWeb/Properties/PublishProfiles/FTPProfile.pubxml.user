@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAM/rQRUh62UG2PN+2jpp1FwAAAAACAAAAAAAQZgAAAAEAACAAAAA/7pr0lYStArqPf3iice4gcO+6Y16jg5D37q0xO91TuAAAAAAOgAAAAAIAACAAAABZruxdVTa4Xwhn+mOKJb4OkA9D6zPOZIRFsPu6BtWv5yAAAAD6QuxuMaw0/Ns6NDc0uYuppnCaRXpEia4hcCZlctZS8EAAAAChVYAlaSuCL8nhE8Mx+rmE7j4YMZadd1ieEaMlTklUkwMpLOe5mBVRX+pwoFA63X0pHPlfmtUKgxU648Ct+l+1</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.52.242.121/www.TalentosYHabilidades.somee.com</_PublishTargetUrl>
+    <History>True|2023-10-18T22:00:34.5335049Z;True|2023-10-18T15:56:06.3983681-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/15/2023 14:50:18</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>08/15/2023 16:43:18</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 14:14:12</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 01:09:54</publishTime>
+    </File>
+    <File Include="PlataformaWeb.deps.json">
+      <publishTime>10/18/2023 15:59:51</publishTime>
+    </File>
+    <File Include="PlataformaWeb.dll">
+      <publishTime>10/18/2023 15:59:51</publishTime>
+    </File>
+    <File Include="PlataformaWeb.exe">
+      <publishTime>10/18/2023 15:59:51</publishTime>
+    </File>
+    <File Include="PlataformaWeb.pdb">
+      <publishTime>10/18/2023 15:59:51</publishTime>
+    </File>
+    <File Include="PlataformaWeb.runtimeconfig.json">
+      <publishTime>10/18/2023 15:55:29</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 17:26:02</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 05:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 05:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 05:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 17:26:08</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 06:54:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 06:54:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 06:54:30</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>10/17/2022 17:16:04</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/18/2023 15:59:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
